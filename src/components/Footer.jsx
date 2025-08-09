@@ -69,7 +69,7 @@ export default function Footer() {
             >
               <div className="flex items-center space-x-3">
                 <img
-                  src="https://qotdwocbcoirjlqjkjhq.supabase.co/storage/v1/object/imagens.website.creation/ad5c31a2-f045-4f97-a0ab-2d4f0e6a69e7/logo_1754769396826_0.png"
+                  src="https://qotdwocbcoirjlqjkjhq.supabase.co/storage/v1/object/public/user-files/ad5c31a2-f045-4f97-a0ab-2d4f0e6a69e7/1754771859650_m0gb2i8x9b_papum_quadrado_logo.png"
                   alt="Teste Academy"
                   className="h-12 w-12"
                 />
